@@ -5,7 +5,7 @@
   path: appointments.html
   section_id: appointments
 - name: Blog
-  path: blog.html
+  path: blog
   section_id: blog
   children:
     - name: Yoga
