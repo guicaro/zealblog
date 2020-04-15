@@ -11,7 +11,7 @@ jQuery(document).ready(function($) {
       submitHandler: function(form) {
         $.ajax({
           type: 'POST',
-          url: 'send.php',
+          url: 'https://formspree.io/xjvelpyb',
           data: $(form).serialize(),
           success: function(data) {
             if(data.match(/success/)) {
