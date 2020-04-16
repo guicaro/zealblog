@@ -16,10 +16,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 
-
 gems:
   - jekyll-paginate
   - jekyll-compose
+
+plugins: [jekyll-paginate]
 
 paginate: 6
 paginate_path: "blog/page:num"

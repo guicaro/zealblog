@@ -2,6 +2,7 @@
 layout: post
 title: New way, new life
 author: hornyou
+categories: [travel, life, home]
 images:
   - images/@stock/r-post-7.jpg
 excerpt:
