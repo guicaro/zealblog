@@ -68,6 +68,12 @@
   background-position: right bottom;
   background-attachment: fixed; }
 
+.full.zealTall {
+  background-image: url(../images/@stock/zealTall.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-attachment: fixed; }
+
 .full.tree {
   min-height: 60%;
   background-image: url(../images/@stock/tree.png);
