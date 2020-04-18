@@ -3,8 +3,6 @@ layout: default
 section_id: blog
 ---
 
-
-
 <div class="full">
   <div class="post single">
     {% if page.images %}
@@ -29,6 +27,8 @@ section_id: blog
               /
             {% endif %}
             <span>{{page.date | date: "%B %d, %Y" }}</span>
+            /
+            <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read
             /
             <span><a href="#">2 Comments</a></span>
           </p>
