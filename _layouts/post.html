@@ -3,6 +3,8 @@ layout: default
 section_id: blog
 ---
 
+<div id="fb-root"></div> <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=1306917442811717"></script>
+
 <div class="full">
   <div class="post single">
     {% if page.images %}
@@ -30,7 +32,8 @@ section_id: blog
             /
             <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read
             /
-            <span><a href="#">2 Comments</a></span>
+<span class="fb-comments-count"
+            <span><a href="#comments"><span class="fb-comments-count" data-href="{{ site.url }}{{ page.url }}"></span> Comments</a></span>
           </p>
           {{content}}
         </div>
@@ -38,6 +41,7 @@ section_id: blog
     </div>
   </div>
 </div>
+<a name="comments"></a>
 <div class="full light-grey">
   <div class="row">
     <div class="large-9 large-centered columns">
@@ -49,7 +53,7 @@ section_id: blog
   <div class="row">
     <div class="large-9 large-centered columns">
       <div class='comments-wrapper'>
-        TODO: PUT FACEBOOK widget here
+       <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="10" data-width=""></div> 
       </div>
     </div>
   </div>
