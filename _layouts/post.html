@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultpost
 section_id: blog
 ---
 
@@ -32,7 +32,6 @@ section_id: blog
             /
             <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read
             /
-<span class="fb-comments-count"
             <span><a href="#comments"><span class="fb-comments-count" data-href="{{ site.url }}{{ page.url }}"></span> Comments</a></span>
           </p>
           {{content}}
@@ -53,7 +52,7 @@ section_id: blog
   <div class="row">
     <div class="large-9 large-centered columns">
       <div class='comments-wrapper'>
-       <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="10" data-width=""></div> 
+       <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="10" data-width="100%"></div> 
       </div>
     </div>
   </div>
