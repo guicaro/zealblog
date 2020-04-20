@@ -5,6 +5,34 @@ jQuery(document).ready(function($) {
   $(document).foundation();
 
 
+  if($('form#mc-embedded-subscribe-form').length > 0) {
+    $('form#mc-embedded-subscribe-form').validate({
+      messages: { },
+      submitHandler: function(form) {
+        $.ajax({
+          type: 'GET',
+          url: 'https://zealdesai.us4.list-manage.com/subscribe/post-json?u=d969c185053a9e38ae2e347f7&amp;id=217561d391&c=?',
+          data: $(form).serialize(),
+          cache: false,
+          dataType: 'json',
+          contentType: "application/json; charset=utp-8",
+          success: function(data) {
+            if (data.result != "success") {
+                // Something went wrong, do something to notify the user. maybe alert(data.msg);
+              $(form).trigger('reset');
+              document.getElementById("error").innerHTML = data.msg;
+              $('#error').show().fadeOut(9000);
+            } else {
+              $(form).trigger('reset');
+              $('#subscribed').show().fadeOut(6000);
+            }
+          }
+        });
+        return false;
+      }
+    });
+  }
+
   if($('form#contact_form').length > 0) {
     $('form#contact_form').validate({
       messages: { },
