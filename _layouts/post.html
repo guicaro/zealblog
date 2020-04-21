@@ -35,6 +35,7 @@ section_id: blog
             <span><a href="#comments"><span class="fb-comments-count" data-href="{{ site.url }}{{ page.url }}"></span> Comments</a></span>
           </p>
           {{content}}
+          {% include share-page.html %}
         </div>
       </div>
     </div>
@@ -48,6 +49,7 @@ section_id: blog
 <div class="full light-grey">
   <div class="row">
     <div class="large-9 large-centered columns">
+      <a name="comments"></a>
       <h2>
         Comments
       </h2>

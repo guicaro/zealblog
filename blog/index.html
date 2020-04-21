@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 section_id: blog
 ---
-
+<div id="fb-root"></div> <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=1306917442811717"></script>
 
 <div class="large-6 columns">
   {% for post in paginator.posts %}
@@ -36,7 +36,7 @@ section_id: blog
             {% endif %}
             <span>{{ post.date | date: "%B %d, %Y" }}</span>
             /
-            <span><a href="#">2 Comments</a></span>
+            <span><a href="{{ post.url | prepend: site.url | uri_escape }}#comments"><span class="fb-comments-count" data-href="{{ post.url | prepend: site.url | uri_escape }}"></span> Comments</a></span>
           </p>
           <p>{{post.excerpt}}</p>
           <div class="spacing"></div>

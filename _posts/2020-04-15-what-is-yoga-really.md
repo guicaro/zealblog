@@ -28,6 +28,7 @@ According to Patanjali, a yogi is one who follows the classical eight-fold path 
 
 Below are nice infographics explaining the eight limbs:
 
+
 *** IMAGE HERE
 *** IMAGE HERE
 
@@ -61,5 +62,3 @@ Zeal
 [4] Students’ Handbook TTC, The Yoga Institute, Nov. 2018  
 
 ---
-{% include share-page.html %}
-
