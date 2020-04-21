@@ -48,4 +48,5 @@ A mention for Phool Chatti Ashram as it is touted to be among the best, but it w
 Conclusion: Before choosing a program, do lots of research and ask yourself and the yoga school a lot of questions regarding what is important to you. Feel free to use the criteria I mentioned above. I’m sure that the schools I mentioned as “Don'ts” might be good in their own right. However, do not settle for less - have a plan B or even C in case you are not comfortable with the program you enrolled for...pay the least possible amount in deposits and keep your options open. If your time permits, physically get to Rishikesh a couple of days in advance and upon reaching, check out the school and pay the deposit upon getting there. While Ashrams are some of the most authentic yoga and spirituality organizations, they need not be dirty or uncomfortable. Don’t worry, you’re in the yoga capital and the next great school could be right next door :) 
 
 I wish you all the best in your journey! Om shanti, shanti, shanti. 
+
 ---

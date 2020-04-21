@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'TODO'
+date: 2016-04-18 06:47:03 +0800
 categories: [TODO]
 images:
 - images/@stock/post-2.jpg
