@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What is yoga, really? Hint: We are not yogis'
-categories: [ yoga]
+categories: [yoga]
 images:
 - images/@stock/post-2.jpg
 - images/@stock/post-3.jpg
@@ -59,3 +59,7 @@ Zeal
 [2] <https://fitsri.com/yoga/what-is-yoga>  
 [3] <https://www.arhantayoga.org/blog/what-is-hatha-yoga-philosophy-and-practice/>   
 [4] Students’ Handbook TTC, The Yoga Institute, Nov. 2018  
+
+---
+{% include share-page.html %}
+

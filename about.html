@@ -16,34 +16,10 @@ slides:
 
 <div class="full no-padding">
   <div id="slides" class="fullscreen">
-    <div class="slides-container">
-      {% for slide in page.slides %}
-        <div class="slide">
-          <div class="slide-info">
-            <div class="row">
-              <div class="large-10 large-centered columns">
-                {% if slide.layout == 'default' %}
-                  <div class="image-wrapper" style="background-image: url({{site.url}}/{{slide.image}});"></div>
-                  <div class="two spacing"></div>
-                  <h1>{{slide.title}}</h1>
-                  <p>{{slide.tagline}}</p>
-                {% else %}
-                  <div class="image-wrapper" style="background-image: url({{site.url}}/{{slide.image_top}});"></div>
-                  <div class="image-wrapper arrows" style="background-image: url({{site.url}}/{{slide.image_bottom}});"></div>
-                  <div class="three spacing"></div>
-                  <h1>{{slide.title}}</h1>
-                {% endif %}
-              </div>
-            </div>
-          </div>
-          <img src="{{site.url}}/{{slide.background}}" alt="">
-        </div>
-      {% endfor %}
-    </div>
-    <nav class="slides-navigation">
-      <a href="#" class="next"><i class="icon-arrows-slim-right"></i></a>
-      <a href="#" class="prev"><i class="icon-arrows-slim-left"></i></a>
-    </nav>
+
+    <video playsinline muted autoplay id='fullscreen-video' loop>
+      <source src='{{ "/images/@stock/cover-video.optimized.mp4" | relative_url }}' type='video/mp4'>
+    </video>
   </div>
 </div>
 
