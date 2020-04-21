@@ -21,10 +21,10 @@ jQuery(document).ready(function($) {
                 // Something went wrong, do something to notify the user. maybe alert(data.msg);
               $(form).trigger('reset');
               document.getElementById("error").innerHTML = data.msg;
-              $('#error').show().fadeOut(9000);
+              $('#error').show().fadeOut(11000);
             } else {
               $(form).trigger('reset');
-              $('#subscribed').show().fadeOut(6000);
+              $('#subscribed').show().fadeOut(7000);
             }
           }
         });

@@ -1389,3 +1389,8 @@ form.update-form input.button:hover {
 .pager .newer {
   float: left;
 }
+
+.logosquare {
+    height: 150px;
+    width: 150px;
+}
