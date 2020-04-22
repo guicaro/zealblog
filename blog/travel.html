@@ -13,7 +13,7 @@ section_id: blog
             {% if post.categories != empty %}
               <span>
                 {% for cat in post.categories %}
-                  <a href="#">{{cat | capitalize }}</a>
+                  <a href="{{ site.url }}/blog/{{ cat }}.html">{{cat | capitalize }}</a>
                   {% unless forloop.last %}
                       ,
                   {% endunless %}

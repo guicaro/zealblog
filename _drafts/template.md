@@ -11,6 +11,9 @@ excerpt:
 
 TODO
 
+Guide to other markup
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 # Big title
 ### Medium title
 # Reference links
@@ -22,6 +25,7 @@ TODO
 *Photo 1: TODO*
 {: refdef}
 
+<a href="#references">[2]</a>
 <a name="references"></a>
 # Anchors here
 
