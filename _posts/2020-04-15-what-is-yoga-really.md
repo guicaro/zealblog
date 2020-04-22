@@ -3,8 +3,8 @@ layout: post
 title: 'What is yoga, really? Hint: We are not yogis'
 categories: [yoga]
 images:
-- images/@stock/post-2.jpg
-- images/@stock/post-3.jpg
+- images/@stock/introSlide3.jpg
+- images/@stock/introSlide2.jpg
 excerpt:
   Today, the word yoga conjures up an image of a cool yoga-pant bearing, colorful yoga mat carrying self-described ‘yogi’ whose normal vocabulary consists  of the words ‘namaste’ and maybe
 ---
@@ -28,9 +28,13 @@ According to Patanjali, a yogi is one who follows the classical eight-fold path 
 
 Below are nice infographics explaining the eight limbs:
 
+{:refdef: style="text-align: center;"}
+![Zeal in Ganga](/images/@stock/introSlide3.jpg)  
+*Photo 1: Zeal in Ganga*
+{: refdef}
 
-*** IMAGE HERE
-*** IMAGE HERE
+![Zeal and Memo](/images/@stock/introSlide2.jpg)  
+*Photo 1: Zeal and Memo*
 
 While many of us might be on the yogic path, there is a special reverence for the word ‘yogi’ in India as this eight-fold path is a difficult one to follow. It is reserved for the ascetics or even householders who have incorporated selfless-service, ethos, and integrity through the practice of yoga in their every breath. Thus, yoga is the ultimate life purpose of a yogi. 
 
