@@ -1,0 +1,33 @@
+---
+layout: blog
+title: Blog - Yoga
+section_id: blog
+---
+<div id="fb-root"></div> <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=1306917442811717"></script>
+
+<div>
+{% for post in site.categories.yoga %}
+        <div class="post-content">
+          <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+          <p class='info'>
+            {% if post.categories != empty %}
+              <span>
+                {% for cat in post.categories %}
+                  <a href="#">{{cat | capitalize }}</a>
+                  {% unless forloop.last %}
+                      ,
+                  {% endunless %}
+                {% endfor %}
+              </span>
+              /
+            {% endif %}
+            <span>{{ post.date | date: "%B %d, %Y" }}</span>
+            /
+            <span><a href="{{ post.url | prepend: site.url | uri_escape }}#comments"><span class="fb-comments-count" data-href="{{ post.url | prepend: site.url | uri_escape }}"></span> Comments</a></span>
+          </p>
+          <p>{{post.excerpt}}</p>
+          <div class="spacing"></div>
+        </div>
+{% endfor %}
+</div>
+

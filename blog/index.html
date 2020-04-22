@@ -77,7 +77,7 @@ section_id: blog
             {% endif %}
             <span>{{ post.date | date: "%B %d, %Y" }}</span>
             /
-            <span><a href="#">2 Comments</a></span>
+            <span><a href="{{ post.url | prepend: site.url | uri_escape }}#comments"><span class="fb-comments-count" data-href="{{ post.url | prepend: site.url | uri_escape }}"></span> Comments</a></span>
           </p>
           <p>{{post.excerpt}}</p>
           <div class="spacing"></div>
