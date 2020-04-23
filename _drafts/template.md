@@ -16,17 +16,15 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # Big title
 ### Medium title
-# Reference links
-[[2]]({% link #references %}) 
+<a href="#references">[2]</a>
 > "Quotes"
 
 {:refdef: style="text-align: center;"}
-![Zeal in Ganga](/images/@stock/TODO.jpg)
+![Title of picture for accesibility](/images/@stock/TODO.jpg)
 *Photo 1: TODO*
 {: refdef}
 
-<a href="#references">[2]</a>
 <a name="references"></a>
-# Anchors here
+// Anchors here
 
 ---

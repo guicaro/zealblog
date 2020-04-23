@@ -24,7 +24,7 @@ milestones:
   to: 80
 - title: Blog Articles
   from: 0
-  to: 2
+  to: 8
 
 testimonials_left:
 - author: David Lame - CEO of Wollen store
@@ -116,7 +116,11 @@ I am a global citizen and certified yoga teacher from India with a focus on holi
     {% for milestone in page.milestones %}
       <div class="large-3 columns ">
         <div class="milestone centered-text">
-          <div class="number" style="color: #333" data-from="{{milestone.from}}" data-to="{{milestone.to}}"> </div>
+          {% if milestone.title == 'Blog Articles' %}
+            <div class="number" style="color: #333" data-from="{{milestone.from}}" data-to="{{site.posts.size}}"> </div>
+          {% else %}
+            <div class="number" style="color: #333" data-from="{{milestone.from}}" data-to="{{milestone.to}}"> </div>
+          {% endif %}
           <span>{{milestone.title}}</span>
           <div class="spacing"></div>
         </div>
