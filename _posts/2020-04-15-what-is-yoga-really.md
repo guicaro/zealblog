@@ -3,8 +3,7 @@ layout: post
 title: 'What is yoga, really? Hint: We are not yogis'
 categories: [yoga]
 images:
-- images/@stock/introSlide3.jpg
-- images/@stock/introSlide2.jpg
+- images/yogaCertificate.jpg
 excerpt:
   Today, the word yoga conjures up an image of a cool yoga-pant bearing, colorful yoga mat carrying self-described ‘yogi’ whose normal vocabulary consists  of the words ‘namaste’ and maybe
 ---
@@ -13,6 +12,10 @@ Today, the word yoga conjures up an image of a cool yoga-pant bearing, colorful 
 
 ### What is yoga, really? 
 Yoga stems from the Sanskrit root, “Yuj” which means ‘to yoke’ or ‘to unite.’ The union of the mind, body, spirit and emotions is yoga. It is one of the most natural practices that relies on internal tools rather than external and takes us back to our real nature like the correct and natural way to breathe, sit, relax, eat, and live life. Yoga answers all our life questions. Shiva is believed to be the Adiyogi, the first yogi. <a href="#references">[2]</a>
+
+{:refdef: style="text-align: center;"}
+![Adiyogi](/images/adiyogi.jpg)
+{: refdef}
 
 Various texts mention and define yoga as follows: 
 
@@ -29,20 +32,18 @@ According to Patanjali, a yogi is one who follows the classical eight-fold path 
 Below are nice infographics explaining the eight limbs:
 
 {:refdef: style="text-align: center;"}
-![Zeal in Ganga](/images/@stock/introSlide3.jpg)  
-*Photo 1: Zeal in Ganga*
+![Eight limbs](/images/eightLimbs.jpg)
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![Zeal and Memo](/images/@stock/introSlide2.jpg)  
-*Photo 2: Zeal and Memo*
+![AOL Yama](/images/aolYama.jpg)  
 {: refdef}
 
 While many of us might be on the yogic path, there is a special reverence for the word ‘yogi’ in India as this eight-fold path is a difficult one to follow. It is reserved for the ascetics or even householders who have incorporated selfless-service, ethos, and integrity through the practice of yoga in their every breath. Thus, yoga is the ultimate life purpose of a yogi. 
 
 ### Types of yoga 
 
-This is also a very confusing and misunderstood concept because of the emergence of physical practices that have a plethora of different name tags like: vinyasa, kundalini, yin, Iyengar, Bikram, even power, goat and beer yoga. Are these actually yoga? Today, meditation is separated from yoga and has evolved as a parallel industry in its right. Would Patanjali approve? He would be as lost as the rest of us, I surmise. While asanas and meditation are beneficial in their own right, this modern marketing in an attempt to lure the busy folks into a gentle form of a physical workout separate from a meditative practice takes away from the spiritual growth and holistic essence of yoga. 
+This is also a very confusing and misunderstood concept because of the emergence of physical practices that have a plethora of different name tags. Google types of yoga and you will find: vinyasa, kundalini, yin, Iyengar, Bikram, even power, goat and beer yoga. Today, meditation is separated from yoga and has evolved as a parallel industry in its right. Would Patanjali approve? He would be as lost as the rest of us, I surmise. While asanas and meditation are beneficial in their own right, this modern marketing in an attempt to lure the busy folks into a physical workout separate from a meditative practice takes away from the spiritual growth and holistic essence of yoga. 
 
 The majority of yoga in the studios can be considered as vague variations of Hatha Yoga, a tradition propounded by the yogis of the Natha lineage in the 15th century. The six-fold Hatha Yoga system omits the first two steps of ethical and social codes of conduct and “focuses primarily on the purification of the body as a path that leads to purification of the mind. Hatha literally means ‘forceful’ or ‘stubborn’ referring to the yogis who believed that its practice was challenging and by forcing it, spiritual liberation was achieved.” <a href="#references">[3]</a> 
 
@@ -56,10 +57,10 @@ Since yoga is an experiential science, it is best practiced by following one of 
 
 4. Bhakti Yoga: Devotion to the universal consciousness or the divine reality, Bhakti is dedication to whatever is meaningful to you. Through chants, prayers, and japa (repetition of mantras), the emotional energy transforms into pure love for divinity and releases the mind from the shackles of suffering and illusion. 
 
-As you might have gathered, there is something for everyone in the holistic life science of yoga uniting the inner self with the cosmos. Those who are on the path are fortunate not only because of its obvious benefits like flexibility, calmness, pain relief and mindfulness, but also the life-transforming gift to get closer to the true nature of the self and everything around us. As the mystic Sadhguru says, ‘I’m neither the mind, nor the body.’ I am much more than that, an eternal soul, an energy untouched by time and space. The realization that we are all part of the same universal life force and are only eight steps away from enlightenment should be reason enough why you should give yoga a try. At the end, all that matters is the self, and it’s best appreciated without rose-colored glasses. When we start seeing things just the way they are, we become joyful. Also, think twice when you hear, see or use the word ‘yogi’!  
+As you might have gathered, there is something for everyone in the holistic life science of yoga uniting the inner self with the cosmos. Those who are on the path are fortunate not only because of its obvious benefits like flexibility, calmness, pain relief and mindfulness, but also the life-transforming gift to get closer to the true nature of the self and everything around us. As the mystic Sadhguru says, ‘I’m neither the mind, nor the body.’ I am much more than that, an eternal soul, an energy untouched by time and space. The realization that we are all part of the same universal life force and capable of enlightenment should be reason enough why you should give yoga a try. At the end, all that matters is the Self, and it’s best appreciated without rose-colored glasses. When we liberate our true nature from the material and start seeing things just the way they are, we become joyful. Also, think twice when you hear, see or use the word ‘yogi’!  
 
 <a name="references"></a>
-Love and light from a zealous sadhaka (practitioner), 
+Love and light from a zealous sadhaka (practitioner),   
 Zeal 
 
 [1] <https://www.statista.com/statistics/605335/us-yoga-industry-revenue>  
