@@ -20,7 +20,7 @@ gems:
   - jekyll-paginate
   - jekyll-compose
 
-plugins: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate]
 
 paginate: 6
 paginate_path: "blog/page:num"
