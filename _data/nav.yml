@@ -1,6 +1,8 @@
 - name: Home
   path: index.html
   section_id: home
+- name: About
+  path: about.html
 - name: Appointments
   path: appointments.html
   section_id: appointments
