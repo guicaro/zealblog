@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How I chose a yoga program in Rishikesh'
+title: 'How to chose a yoga program in Rishikesh'
 categories: [yoga, travel]
 images:
 - images/rishikeshSunset.jpg
