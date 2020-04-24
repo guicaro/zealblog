@@ -10,9 +10,9 @@ excerpt:
 
 Bringing you a talk with my friend and expert, Dr. Aruna Bhide, about Ayurveda in the times of COVID-19 and how we can use it as an excellent preventive measure. 
  
-<p align="center">
-<iframe width="700" height="415" src="https://www.youtube.com/embed/j3Qb9SmWJUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<div class="wrap-element">
+<iframe class="wrapped-iframe" src="https://www.youtube.com/embed/j3Qb9SmWJUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
  
 Here is the summary: 
 Ayurveda means science of life. Ayu - Life, Veda - science. It is holistic (mind, body, soul and emotions are connected)
