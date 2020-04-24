@@ -5,7 +5,8 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{{ "/images/@stock/introSlide3.jpg" | prepend: site.baseurl }}" | prepend: site.baseurl }}" />
+  <meta property="og:image" content="https://zealdesai.com/images/@stock/introSlide3.jpg" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
 
   <link rel="icon" type="image/x-icon" href=" {{ "/images/@stock/favicon.ico" | prepend: site.baseurl }}"/>
   <link rel="stylesheet" href="{{ "/css/app.css" | prepend: site.baseurl }}">
