@@ -7,6 +7,11 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="fb:app_id" content="1306917442811717"/>
 
+<meta name="twitter:title"   content="{{ page.title }}">
+<meta name="twitter:description" content="{{ post.excerpt }}">
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{site.url}}/{{page.images[0]}}">
+
   <link rel="icon" type="image/x-icon" href=" {{ "/images/@stock/favicon.ico" | prepend: site.baseurl }}"/>
   <link rel="stylesheet" href="{{ "/css/app.css" | prepend: site.baseurl }}">
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,600,300" media="screen" rel="stylesheet" type="text/css" />
