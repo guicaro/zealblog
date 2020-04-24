@@ -9,12 +9,14 @@ excerpt:
   Although the chances of infection are predicted to affect 40-70% of the world population, a lot of them will be asymptomatic or reversible. My opinion is that many young and healthy individuals with
 ---
 
-| <img src="/images/zealWhiteMeditation.jpg" width="700" alt="Zeal meditating in white">  |
-|:-------------: |
-|  |
+| <img src="/images/coupleFaceMasks.jpg" width="400" alt="Couple with face masks">  | <img src="/images/zealWhiteMeditation.jpg" width="400" alt="Zeal meditating">  |
+|:-------------: |:-------------:|
+| |  |
 
 Although the chances of infection are predicted to affect 40-70% of the world population, a lot of them will be asymptomatic or reversible. My opinion is that many young and healthy individuals with a good immune response will be spared. There is no need to unnecessarily stress as China CDC’s analysis of 44,672 patients found that the fatality rate in patients who reported no other health conditions was 0.9%. It was 10.5% for those with cardiovascular disease, 7.3% for those with diabetes, 6.3% for people with chronic respiratory diseases such as COPD, 6.0% for people with hypertension, and 5.6% for those with cancer.
-As it all comes down to immunity and prevention, I would suggest some common household remedies to boost up the immune and respiratory systems:
+As it all comes down to immunity and prevention, I would suggest some yogic practices and common household remedies to boost up the immune and respiratory systems:
+
+
 
 1. **Jal Neti (saline water cleansing)**: This is the age-old yoga kriya (technique) for nasal and respiratory hygiene using a warm saline water solution to clean out the nostrils alternatively using just the palm of the hands or a neti pot. Prior to the practice, use the same water to do gargles. Here is a [video](https://youtu.be/RKGTogR5HFs "Jala Neti - Prevention from Coronavirus") of my teacher demonstrating a safe method to do Jal Neti
 
@@ -32,7 +34,8 @@ Another pranayama to equalize the breathing through both nostrils is called [Anu
 
    a. Time-restricted: eat lunch starting at 12 noon, and finish dinner by 8:00pm. Fast until the next day at noon (16 hour fast). Do this every day.
 
-   b. 5:2 fasting: fast for 2 different days each week, which means eating just 500-700 calories worth of food and drink on those days. Eat normally on the other 5 days.
+   b. 5:2 fasting: fast for 2 different days each week, which means eating just 500-700 calories worth of food and drink on those days. Eat normally on the other 5 days.  
+ 
 Of course, don’t forget to wash hands, wear masks, and no handshakes. Only Namaste! Want to learn more? Feel free to [message](/contact.html) or [schedule](/appointments.html) a free consultation with me.
 
 Love and light,  
