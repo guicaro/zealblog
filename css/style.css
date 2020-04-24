@@ -1419,3 +1419,10 @@ form.update-form input.button:hover {
         }
     }
 }
+
+
+.img-post {
+  max-width: 60%;
+  height: auto; 
+}
+

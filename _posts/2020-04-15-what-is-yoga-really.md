@@ -13,9 +13,9 @@ Today, the word yoga conjures up an image of a cool yoga-pant bearing, colorful 
 ### What is yoga, really? 
 Yoga stems from the Sanskrit root, “Yuj” which means ‘to yoke’ or ‘to unite.’ The union of the mind, body, spirit and emotions is yoga. It is one of the most natural practices that relies on internal tools rather than external and takes us back to our real nature like the correct and natural way to breathe, sit, relax, eat, and live life. Yoga answers all our life questions. Shiva is believed to be the Adiyogi, the first yogi. <a href="#references">[2]</a>
 
-{:refdef: style="text-align: center;"}
-![Adiyogi](/images/adiyogi.jpg)
-{: refdef}
+| <img src="/images/adiyogi.jpg" width="400" alt="Adiyogi">  |
+|:-------------: |
+| |
 
 Various texts mention and define yoga as follows: 
 
@@ -31,13 +31,13 @@ According to Patanjali, a yogi is one who follows the classical eight-fold path 
 
 Below are nice infographics explaining the eight limbs:
 
-{:refdef: style="text-align: center;"}
-![Eight limbs](/images/eightLimbs.jpg)
-{: refdef}
+| <img src="/images/eightLimbs.jpg" width="850" alt="Patanjali's eight limbs of Ashtanga Yoga">  |
+|:-------------: |
+| |
 
-{:refdef: style="text-align: center;"}
-![AOL Yama](/images/aolYama.jpg)  
-{: refdef}
+|  <img src="/images/aolYama.jpg" width="700" alt="Yamas and Niyamas explained">  |
+|:-------------: |:-------------:|
+| |
 
 While many of us might be on the yogic path, there is a special reverence for the word ‘yogi’ in India as this eight-fold path is a difficult one to follow. It is reserved for the ascetics or even householders who have incorporated selfless-service, ethos, and integrity through the practice of yoga in their every breath. Thus, yoga is the ultimate life purpose of a yogi. 
 
