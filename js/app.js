@@ -43,12 +43,9 @@ jQuery(document).ready(function($) {
           data: $(form).serialize(),
           dataType: "json",
           success: function(data) {
-            if(data.match(/success/)) {
+            if(data.ok == true) {
               $(form).trigger('reset');
-              $('#thanks').show().fadeOut(5000);
-            } else {
-              $(form).trigger('reset');
-              $('#thanks').show().fadeOut(5000);
+              $('#thanks').show().fadeOut(7000);
             }
           }
         });
