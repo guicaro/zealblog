@@ -38,11 +38,15 @@ jQuery(document).ready(function($) {
       messages: { },
       submitHandler: function(form) {
         $.ajax({
-          type: 'POST',
+          method: 'POST',
           url: 'https://formspree.io/xjvelpyb',
           data: $(form).serialize(),
+          dataType: "json",
           success: function(data) {
             if(data.match(/success/)) {
+              $(form).trigger('reset');
+              $('#thanks').show().fadeOut(5000);
+            } else {
               $(form).trigger('reset');
               $('#thanks').show().fadeOut(5000);
             }
