@@ -59,6 +59,8 @@ Since yoga is an experiential science, it is best practiced by following one of 
 
 As you might have gathered, there is something for everyone in the holistic life science of yoga uniting the inner self with the cosmos. Those who are on the path are fortunate not only because of its obvious benefits like flexibility, calmness, pain relief and mindfulness, but also the life-transforming gift to get closer to the true nature of the self and everything around us. As the mystic Sadhguru says, ‘I’m neither the mind, nor the body.’ I am much more than that, an eternal soul, an energy untouched by time and space. The realization that we are all part of the same universal life force and capable of enlightenment should be reason enough why you should give yoga a try. At the end, all that matters is the Self, and it’s best appreciated without rose-colored glasses. When we liberate our true nature from the material and start seeing things just the way they are, we become joyful. Also, think twice when you hear, see or use the word ‘yogi’!  
 
+If you have made it this far into the article and would like to explore in-depth the different yogic practices that we can tailor to fit your needs and preferences, please do not hesitate to [schedule a meeting](/appointments.html).  
+
 <a name="references"></a>
 Love and light from a zealous sadhaka (practitioner),   
 Zeal 

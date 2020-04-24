@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Zeal Desai | Yoga Consultant
+title: Zeal Desai | Holitic Yoga Consultant
 email: zealdesai@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   Zeal Desai is a global citizen and certified yoga teacher from India with a focus on personalized yoga as a way of life. Check out the blog section for unique insights and experiences! 
+   Zeal Desai is a global citizen, certified yoga teacher, and holistic yoga consultant from India with a focus on personalized yoga as a way of life. Holistic yoga should be accessible to all, and I invite you to schedule a free personalized consultation
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 
