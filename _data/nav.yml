@@ -10,6 +10,8 @@
   path: blog
   section_id: blog
   children:
+    - name: All
+      path: blog
     - name: Yoga
       path: blog/yoga.html
     - name: Travel
