@@ -5,7 +5,7 @@ categories: [yoga]
 images:
 - images/healthyBreakfast.jpg
 excerpt:
-  We like to start our mornings on an empty stomach with a 1.5-2 hour yoga asana/pranayama/meditation, followed by a homemade power 
+  'We like to start our mornings on an empty stomach with a 1.5-2 hour yoga asana / pranayama / meditation, followed by a homemade power' 
 ---
 
 We like to start our mornings on an empty stomach with a 1.5-2 hour yoga asana/pranayama/meditation, followed by a homemade power breakfast of raw foods, seeds, and nuts that keeps us going for 4-5 hours.

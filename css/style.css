@@ -643,7 +643,8 @@ nav.wrapper {
   color: #AB8860; }
 
 .post .two-images img {
-  width: 49%; }
+  width: 49%;
+ }
 
 .post, .recent-post {
   color: #666;
@@ -700,7 +701,9 @@ nav.wrapper {
   border: none;
   padding: 0 40px; }
   .post.alt .post-content {
-    padding: 20px 40px; }
+/* removed to allow wider text in post listing */
+/*  padding: 20px 40px;  */
+}
 
 .post.single {
   border: none;
