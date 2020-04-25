@@ -10,11 +10,10 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 
-
   <meta name="twitter:title"   content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta name="twitter:description" content="{{ site.description }}">
   <meta name="twitter:card"  content="summary_large_image">
-  <meta name="twitter:image" content="{{site.url}}/{{page.images[0]}}">
+  <meta name="twitter:image" content="https://zealdesai.com/images/introSlide3.jpg">
 
   <link rel="icon" type="image/x-icon" href=" {{ "/images/@stock/favicon.ico" | prepend: site.baseurl }}"/>
   <link rel="stylesheet" href="{{ "/css/app.css" | prepend: site.baseurl }}">
