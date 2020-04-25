@@ -44,6 +44,13 @@
   position: relative;
   /* for work section and member section*/ }
 
+.fullrus {
+  padding: 160px 0 80px;
+  background-size: cover;
+  background-position: 50% 50%;
+  clear: both;
+}
+
 .full.light {
   color: #fff; }
 
@@ -1074,6 +1081,15 @@ nav.wrapper {
       -o-transform: translateY(0);
       transform: translateY(0); }
 
+.fullscreenrus {
+  min-height: 800px;
+  height: 100vh;
+  position: relative;
+  max-height: 1500px;
+  background-size: cover;
+  overflow: hidden;
+}
+
 .slides .slick-dots {
   margin: 0;
   bottom: 20px !important; }
@@ -1262,6 +1278,16 @@ form.update-form input.button:hover {
   width: auto;
   height: auto; }
 
+#fullscreen-videorus {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
 /* milestone */
 .milestone .number {
   display: block;
@@ -1425,4 +1451,3 @@ form.update-form input.button:hover {
   max-width: 60%;
   height: auto; 
 }
-
