@@ -629,7 +629,6 @@ nav.wrapper {
   nav.wrapper li {
     display: inline-block; }
   nav.wrapper a {
-    width: 260px;
     padding: 20px; }
   nav.wrapper a.previous {
     float: right; }
