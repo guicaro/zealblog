@@ -70,9 +70,9 @@ If you have made it this far into the article and would like to explore in-depth
 Love and light from a zealous sadhaka (practitioner),   
 Zeal 
 
-[1] [Revenue of the yoga industry in the United States from 2012 to 2020](https://www.statista.com/statistics/605335/us-yoga-industry-revenue "Revenue of the yoga industry in the United States from 2012 to 2020") 
-[2] [What is Yoga: Importance, Philosophy, History & Benefits](https://fitsri.com/yoga/what-is-yoga "What is Yoga: Importance, Philosophy, History & Benefits")
-[3] [What is Hatha Yoga?](https://www.arhantayoga.org/blog/what-is-hatha-yoga-philosophy-and-practice/ "What is Hatha Yoga?")   
-[4] Students’ Handbook TTC, The Yoga Institute, Nov. 2018  
+[1] [Revenue of the yoga industry in the United States from 2012 to 2020](https://www.statista.com/statistics/605335/us-yoga-industry-revenue "Revenue of the yoga industry in the United States from 2012 to 2020")  
+[2] [What is Yoga: Importance, Philosophy, History & Benefits](https://fitsri.com/yoga/what-is-yoga "What is Yoga: Importance, Philosophy, History & Benefits")  
+[3] [What is Hatha Yoga?](https://www.arhantayoga.org/blog/what-is-hatha-yoga-philosophy-and-practice/ "What is Hatha Yoga?")     
+[4] Students’ Handbook TTC, The Yoga Institute, Nov. 2018    
 
 ---
