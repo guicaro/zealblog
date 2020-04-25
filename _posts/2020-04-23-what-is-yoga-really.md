@@ -13,18 +13,18 @@ Today, the word yoga conjures up an image of a cool yoga-pant bearing, colorful 
 ### What is yoga, really? 
 Yoga stems from the Sanskrit root, “Yuj” which means ‘to yoke’ or ‘to unite.’ The union of the mind, body, spirit and emotions is yoga. It is one of the most natural practices that relies on internal tools rather than external and takes us back to our real nature like the correct and natural way to breathe, sit, relax, eat, and live life. Yoga answers all our life questions. Shiva is believed to be the Adiyogi, the first yogi. <a href="#references">[2]</a>
 
-| <img src="/images/adiyogi.jpg" width="400" alt="Adiyogi">  |
-|:-------------: |
+| <img src="/images/adiyogi.jpg" width="75%" alt="Adiyogi">  |
+|:--: |
 | |
 
 Various texts mention and define yoga as follows: 
 
 * **Vedas** (translated as ‘wisdom’ or ‘knowledge’): Orally transmitted in a master-disciple setting more than 3000 years ago, the great sage Vyasa compiled them and defined yoga as samadhi - ‘युज समाधौ’ (yuj samadhou). Samadhi, the last limb of Ashtanga yoga, the eight-fold path,  is the highest level of concentration, wherein the individual consciousness or the mind merges with the universal consciousness or the highest reality. 
 
-* **Bhagavad Gita** (means the ‘divine song’): Part of the great epic Mahabharata, also authored by Vyasa, it defines yoga as,  "योगः कर्मसु कौशलम्" (yogah karmasu kaushalam), excellence in action/work. Also known as Karma Yoga, Krishna explained to Arjuna that the ultimate yoga is that of selfless service to all beings. Enlightenment can be achieved by doing the best work possible keeping aside the ego, personal desires, and without expecting anything in return. 
-Another definition in the Bhagavad Gita is “समत्वं योगः उच्यते” (samatvam yoga uchyate), maintaining the state of mental equilibrium/calmness/equanimity is yoga. A calm mind and steady body are the hallmarks of yoga philosophy that lead to oneness of the yogi with the universe. 
+* **Bhagavad Gita** (means the ‘divine song’): Part of the great epic Mahabharata, also authored by Vyasa, it defines yoga as,  "योगः कर्मसु कौशलम्" (yogah karmasu kaushalam), excellence in actio / work. Also known as Karma Yoga, Krishna explained to Arjuna that the ultimate yoga is that of selfless service to all beings. Enlightenment can be achieved by doing the best work possible keeping aside the ego, personal desires, and without expecting anything in return. 
+Another definition in the Bhagavad Gita is “समत्वं योगः उच्यते” (samatvam yoga uchyate), maintaining the state of mental equilibrium / calmness / equanimity is yoga. A calm mind and steady body are the hallmarks of yoga philosophy that lead to oneness of the yogi with the universe. 
 
-* **Yoga Sutras** (aphorisms): Sage Patanjali, also known as the ‘father of modern yoga’ organized knowledge from the diverse schools of yoga in concise drops of wisdom around 2,500 years ago. He defined yoga as “योगश्चित्तवृत्तिनिरोधः” (yogash-chitta-vritti-nirodhah), yoga is stopping the fluctuations/modifications of the mind. The modifications of the mind are correct knowledge (pramana), false knowledge (viparyaya), imagination (vikalpa), sleep (nidra), and memory (smriti). All these distort the true nature of the self and cause ripples in the still water of the lake (our mind). 
+* **Yoga Sutras** (aphorisms): Sage Patanjali, also known as the ‘father of modern yoga’ organized knowledge from the diverse schools of yoga in concise drops of wisdom around 2,500 years ago. He defined yoga as “योगश्चित्तवृत्तिनिरोधः” (yogash-chitta-vritti-nirodhah), yoga is stopping the fluctuations / modifications of the mind. The modifications of the mind are correct knowledge (pramana), false knowledge (viparyaya), imagination (vikalpa), sleep (nidra), and memory (smriti). All these distort the true nature of the self and cause ripples in the still water of the lake (our mind). 
 
 > Out of the 196 sutras, only 3 mention the word ‘asana’ (physical postures), which means that ~99% of yoga is not about the physical body.
 
@@ -36,12 +36,12 @@ According to Patanjali, a yogi is one who follows the classical eight-fold path 
 
 Below are nice infographics explaining the eight limbs:
 
-| <img src="/images/eightLimbs.jpg" width="850" alt="Patanjali's eight limbs of Ashtanga Yoga">  |
-|:-------------: |
+| <img src="/images/eightLimbs.jpg" width="90%" alt="Patanjali's eight limbs of Ashtanga Yoga">  |
+|:--: |
 | |
 
-|  <img src="/images/aolYama.jpg" width="700" alt="Yamas and Niyamas explained">  |
-|:-------------: |:-------------:|
+|  <img src="/images/aolYama.jpg" width="80%" alt="Yamas and Niyamas explained">  |
+|:--:|
 | |
 
 > While many of us might be on the yogic path, there is a special reverence for the word ‘yogi’ in India as this eight-fold path is a difficult one to follow. It is reserved for the ascetics or even householders who have incorporated selfless-service, ethos, and integrity through the practice of yoga in their every breath. Thus, yoga is the ultimate life purpose of a yogi. 
@@ -70,9 +70,9 @@ If you have made it this far into the article and would like to explore in-depth
 Love and light from a zealous sadhaka (practitioner),   
 Zeal 
 
-[1] <https://www.statista.com/statistics/605335/us-yoga-industry-revenue>  
-[2] <https://fitsri.com/yoga/what-is-yoga>  
-[3] <https://www.arhantayoga.org/blog/what-is-hatha-yoga-philosophy-and-practice/>   
+[1] [Revenue of the yoga industry in the United States from 2012 to 2020](https://www.statista.com/statistics/605335/us-yoga-industry-revenue "Revenue of the yoga industry in the United States from 2012 to 2020") 
+[2] [What is Yoga: Importance, Philosophy, History & Benefits](https://fitsri.com/yoga/what-is-yoga "What is Yoga: Importance, Philosophy, History & Benefits")
+[3] [What is Hatha Yoga?](https://www.arhantayoga.org/blog/what-is-hatha-yoga-philosophy-and-practice/ "What is Hatha Yoga?")   
 [4] Students’ Handbook TTC, The Yoga Institute, Nov. 2018  
 
 ---
