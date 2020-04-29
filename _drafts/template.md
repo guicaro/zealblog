@@ -4,7 +4,7 @@ title: 'TODO'
 date: 2016-04-18 06:47:03 +0800
 categories: [TODO]
 images:
-- images/@stock/TODO.jpg
+- images/TODO.jpg
 excerpt:
   TODO
 ---
@@ -21,9 +21,10 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [I'm an inline-style link with title](https://www.com "TT")
 
 //Youtube vid
-<p align="center">
-<iframe width="700" height="415" > </iframe>
-</p>
+<div class="wrap-element">
+<iframe class="wrapped-iframe" ...</iframe>
+</div>
+<br>
 
 //2 images
 | <img src="/images/TT.jpg" width="400" alt="TT">  | <img src="/images/TT.jpg" width="400" alt="TT">  |
