@@ -13,7 +13,7 @@ The reason why I was drawn to the Himalayan Tradition was because of the simplic
 Most of this warm up is adopted from the Joints and Glands exercise manual of the Himalayan Yoga Tradition Teacher Training Program and I find it to be a complete workout. I start my daily morning yoga routine with these exercises. In the below video, I demonstrate a step-by-step warm up of every joint, gland, followed by a deep relaxation. Do check it out and let me know if I am missing any body part 😃
 
 <div class="wrap-element">
-<iframe class="wrapped-iframe" src="https://www.youtube-nocookie.com/embed/_9Jd4wzWbzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="wrapped-iframe" src="https://www.youtube-nocookie.com/embed/WddXeYXZgI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 
