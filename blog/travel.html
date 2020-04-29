@@ -36,7 +36,14 @@ section_id: blog
             {% endif %}
             <span>{{ post.date | date: "%B %d, %Y" }}</span>
             /
-            <span><a href="{{ post.url | prepend: site.url | uri_escape }}#comments">Comments</a></span>
+<span class="time">
+  {% assign words = post.content | number_of_words %}
+  {% if words < 360 %}
+    1 Minute Read
+  {% else %}
+    {{ words | divided_by:180 }} Minute Read
+  {% endif %}
+</span>
           </p>
           <p>{{post.excerpt}}</p>
           <div class="spacing"></div>
@@ -77,7 +84,14 @@ section_id: blog
             {% endif %}
             <span>{{ post.date | date: "%B %d, %Y" }}</span>
             /
-            <span><a href="{{ post.url | prepend: site.url | uri_escape }}#comments">Comments</a></span>
+<span class="time">
+  {% assign words = post.content | number_of_words %}
+  {% if words < 360 %}
+    1 Minute Read
+  {% else %}
+    {{ words | divided_by:180 }} Minute Read
+  {% endif %}
+</span>
           </p>
           <p>{{post.excerpt}}</p>
           <div class="spacing"></div>
