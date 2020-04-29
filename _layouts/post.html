@@ -30,7 +30,7 @@ section_id: blog
             {% endif %}
             <span>{{page.date | date: "%B %d, %Y" }}</span>
             /
-            <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read
+            {% include read-time.html %}
             /
             <span><a href="#comments"><span class="fb-comments-count" data-href="{{ site.url }}{{ page.url }}"></span> Comments</a></span>
           </p>
