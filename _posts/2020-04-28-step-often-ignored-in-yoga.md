@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The step in Yoga Asana which is often ignored'
+title: 'The Asana sequence which is often ignored'
 categories: [yoga]
 images:
 - images/zealWarmUpVideo.jpg
