@@ -14,6 +14,8 @@
       path: blog
     - name: Yoga
       path: blog/yoga.html
+    - name: Nutrition
+      path: blog/nutrition.html
     - name: Travel
       path: blog/travel.html
 - name: Contact

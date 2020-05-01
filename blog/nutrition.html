@@ -1,0 +1,103 @@
+---
+layout: blog
+title: Blog | Yoga
+section_id: blog
+---
+<div id="fb-root"></div> <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=1306917442811717"></script>
+
+<div class="large-6 columns">
+{% for post in site.categories.nutrition %}
+    {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 1 %}
+      <div class="post alt">
+        {% if post.images %}
+          {% if post.images.size > 1 %}
+            <a href="{{post.url}}" class='two-images'>
+              <img src="{{site.url}}/{{post.images[0]}}" alt="post" class="left-image">
+              <img src="{{site.url}}/{{post.images[1]}}" alt="post" class="right-image">
+            </a>
+          {% else %}
+            <a href="{{post.url}}"><img src="{{site.url}}/{{post.images[0]}}" alt="post"></a>
+          {% endif %}
+        {% endif %}
+        <div class="post-content">
+          <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+          <p class='info'>
+            {% if post.categories != empty %}
+              <span>
+                {% for cat in post.categories %}
+                  <a href="{{ site.url }}/blog/{{ cat }}.html">{{cat | capitalize }}</a>
+                  {% unless forloop.last %}
+                      ,
+                  {% endunless %}
+                {% endfor %}
+              </span>
+              /
+            {% endif %}
+            <span>{{ post.date | date: "%B %d, %Y" }}</span>
+            /
+<span class="time">
+  {% assign words = post.content | number_of_words %}
+  {% if words < 360 %}
+    1 Minute Read
+  {% else %}
+    {{ words | divided_by:180 }} Minute Read
+  {% endif %}
+</span>
+          </p>
+          <p>{{post.excerpt}}</p>
+          <div class="spacing"></div>
+          <p><a href="{{post.url}}" class="button tiny brown boxed">Read more</a></p>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+<div class="large-6 columns">
+{% for post in site.categories.nutrition %}
+    {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 0 %}
+      <div class="post alt">
+        {% if post.images %}
+          {% if post.images.size > 1 %}
+            <a href="{{post.url}}" class='two-images'>
+              <img src="{{site.url}}/{{post.images[0]}}" alt="post" class="left-image">
+              <img src="{{site.url}}/{{post.images[1]}}" alt="post" class="right-image">
+            </a>
+          {% else %}
+            <a href="{{post.url}}"><img src="{{site.url}}/{{post.images[0]}}" alt="post"></a>
+          {% endif %}
+        {% endif %}
+        <div class="post-content">
+          <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+          <p class='info'>
+            {% if post.categories != empty %}
+              <span>
+                {% for cat in post.categories %}
+                  <a href="{{ site.url }}/blog/{{ cat }}.html">{{cat | capitalize}}</a>
+                  {% unless forloop.last %}
+                      ,
+                  {% endunless %}
+                {% endfor %}
+              </span>
+              /
+            {% endif %}
+            <span>{{ post.date | date: "%B %d, %Y" }}</span>
+            /
+<span class="time">
+  {% assign words = post.content | number_of_words %}
+  {% if words < 360 %}
+    1 Minute Read
+  {% else %}
+    {{ words | divided_by:180 }} Minute Read
+  {% endif %}
+</span>
+          </p>
+          <p>{{post.excerpt}}</p>
+          <div class="spacing"></div>
+          <p><a href="{{post.url}}" class="button tiny brown boxed">Read more</a></p>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
