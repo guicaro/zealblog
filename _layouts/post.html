@@ -39,7 +39,11 @@ section_id: blog
   {% endif %}
 </span>
             /
-            <span><a href="#comments"><span class="fb-comments-count" data-href="{{ site.url }}{{ page.url }}"></span> Comments</a></span>
+            {% if page.title == 'Kick-starting your morning routine' %}
+               <span><a href="#comments"><span class="fb-comments-count" data-href="https://zealdesai.com/yoga/2020/04/11/kick-starting-morning-routine.html"></span> Comments</a></span>
+            {% else %}
+               <span><a href="#comments"><span class="fb-comments-count" data-href="{{ site.url }}{{ page.url }}"></span> Comments</a></span>
+            {% endif %}
           </p>
           {{content}}
           {% include share-page.html %}
@@ -65,7 +69,11 @@ section_id: blog
   <div class="row">
     <div class="large-9 large-centered columns">
       <div class='comments-wrapper'>
-       <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="10" data-width="100%"></div> 
+       {% if page.title == 'Kick-starting your morning routine' %}
+         <div class="fb-comments" data-href="https://zealdesai.com/yoga/2020/04/11/kick-starting-morning-routine.html" data-numposts="10" data-width="100%"></div> 
+       {% else %}
+         <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="10" data-width="100%"></div> 
+       {% endif %}
       </div>
     </div>
   </div>

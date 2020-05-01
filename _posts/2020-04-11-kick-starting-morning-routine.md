@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kick-starting your morning routine'
-categories: [yoga]
+categories: [yoga, nutrition]
 images:
 - images/healthyBreakfast.jpg
 excerpt:
