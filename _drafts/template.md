@@ -19,6 +19,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 <a href="#references">[2]</a>
 > "Quotes"
 [I'm an inline-style link with title](https://www.com "TT")
+[breakfast tostada]({% post_url 2020-04-11-kick-starting-morning-routine %})
 
 //Youtube vid
 <div class="wrap-element">
@@ -27,17 +28,17 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 <br>
 
 //2 images
-| <img src="/images/TT.jpg" width="400" alt="TT">  | <img src="/images/TT.jpg" width="400" alt="TT">  |
+| <img src="/images/TT.jpg" width="75%" alt="TT">  | <img src="/images/TT.jpg" width="400" alt="TT">  |
 |:-------------: |:-------------:|
 | *TT* | *TT*  |
 
 //1 image
-| <img src="/images/TT.jpg" width="400" alt="TT">  |
+| <img src="/images/TT.jpg" width="75%" alt="TT">  |
 |:-------------: |
 | *TT* |
 
 // 1 image no caption
-| <img src="/images/TT.jpg" width="400" alt="TT">  |
+| <img src="/images/TT.jpg" width="75%" alt="TT">  |
 |:-------------: |
 |  |
 
