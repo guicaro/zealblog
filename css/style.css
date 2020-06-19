@@ -506,10 +506,10 @@ ul.socials {
   opacity: 1; }
 
 .service-info {
-  padding-top: 40px; }
+  padding-top: 0px; }
 
 .service-info.right-text {
-  text-align: right; }
+  text-align: left; }
 
 /* gallery */
 .gallery-right-section {
@@ -1456,4 +1456,9 @@ form.update-form input.button:hover {
 
 .bannerLink {
   color: #ffccf5;
+}
+
+.speaker {
+  text-align: center;
+  vertical-align: text-top;
 }
