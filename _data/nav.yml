@@ -3,6 +3,11 @@
   section_id: home
 - name: About
   path: about.html
+  children:
+    - name: My Story
+      path: about.html
+    - name: Yoga Day 2020
+      path: idy2020
 - name: Appointments
   path: appointments.html
   section_id: appointments
