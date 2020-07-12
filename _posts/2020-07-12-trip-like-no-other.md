@@ -101,8 +101,8 @@ Upon reaching the airport at 3 AM in Arequipa, we were informed that there were 
 
 Our flight made two pit stops for refueling, one in the north of Peru and the other in Panama City before landing in Mexico City almost 30 hours after leaving Cusco. It was a moment of joy as the whole plane cheered ‘Viva México!’ I really felt proud of this beautiful country that is my second home. A big thanks to the Mexican Embassy in Peru: I was able to accompany my husband back to Mexico even though I am not a Mexican. [Many other international traveling couples haven’t had the same luck](https://www.thestar.com/news/canada/2020/05/03/canadians-with-foreign-national-spouses-face-obstacles-at-border.html). We ended our pre-pandemic traveling year rather dramatically. Unfortunately, Peru became one of the countries with the most deaths per capita despite the long lockdown period lasting 3.5 months. Our Peruvian and Colombian adventure will definitely go down in our travel history as the most extraordinarily unusual and memorable one. 
 
-| <img src="/images/peru/cucara.jpg" width="75%" alt="First Mexican meal during the pandemic. Next time at Terminal 2 of Mexico City, try Cucara Macara restaurant. You can thank me later">  |
+| <img src="/images/peru/cucara.jpg" width="75%" alt="First Mexican meal during the pandemic. Next time at Terminal 1 of Mexico City, try Cucara Macara restaurant. You can thank me later">  |
 |:-------------: |
-| *First Mexican meal during the pandemic. Next time at Terminal 2 of Mexico City, try Cucara Macara restaurant. You can thank me later 😊* |
+| *First Mexican meal during the pandemic. Next time at Terminal 1 of Mexico City, try Cucara Macara restaurant. You can thank me later 😊* |
 
 ---
