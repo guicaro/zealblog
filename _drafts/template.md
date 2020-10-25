@@ -23,22 +23,22 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 //Youtube vid
 <div class="wrap-element">
-<iframe class="wrapped-iframe" ...</iframe>
+<iframe class="wrapped-iframe" ...></iframe>
 </div>
 <br>
 
 //2 images
-| <img src="/images/TT.jpg" width="75%" alt="TT">  | <img src="/images/TT.jpg" width="400" alt="TT">  |
+| <img src="/images/FILENAME_HERE_LEFT.jpg" width="75%" alt="Description of image left">  | <img src="/images/FILENAME_HERE_RIGHT.jpg" width="400" alt="Description of image right">  |
 |:-------------: |:-------------:|
-| *TT* | *TT*  |
+| *Caption Image left* | *Caption image right*  |
 
 //1 image
-| <img src="/images/TT.jpg" width="75%" alt="TT">  |
+| <img src="/images/FILENAME_HERE.jpg" width="75%" alt="Description of image here">  |
 |:-------------: |
-| *TT* |
+| *Caption Image* |
 
 // 1 image no caption
-| <img src="/images/TT.jpg" width="75%" alt="TT">  |
+| <img src="/images/FILENAME_HERE.jpg" width="75%" alt="Description of image here">  |
 |:-------------: |
 |  |
 
