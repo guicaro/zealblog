@@ -18,7 +18,11 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ### Medium title
 <a href="#references">[2]</a>
 > "Quotes"
-[I'm an inline-style link with title](https://www.com "TT")
+
+// URL link
+[I'm an inline-style link with title](https://www.com "description of link (accesibility")
+
+// Linking to another article in blog
 [breakfast tostada]({% post_url 2020-04-11-kick-starting-morning-routine %})
 
 //Youtube vid
@@ -28,7 +32,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 <br>
 
 //2 images
-| <img src="/images/FILENAME_HERE_LEFT.jpg" width="75%" alt="Description of image left">  | <img src="/images/FILENAME_HERE_RIGHT.jpg" width="400" alt="Description of image right">  |
+| <img src="/images/FILENAME_HERE_LEFT.jpg" width="75%" alt="Description of image left">  | <img src="/images/FILENAME_HERE_RIGHT.jpg" width="75%" alt="Description of image right">  |
 |:-------------: |:-------------:|
 | *Caption Image left* | *Caption image right*  |
 

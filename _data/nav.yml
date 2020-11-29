@@ -21,6 +21,8 @@
       path: blog/yoga.html
     - name: Nutrition
       path: blog/nutrition.html
+    - name: Sustainability
+      path: blog/sustainability.html
     - name: Travel
       path: blog/travel.html
 - name: Contact
