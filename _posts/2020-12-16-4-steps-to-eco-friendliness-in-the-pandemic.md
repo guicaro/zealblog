@@ -3,10 +3,9 @@ title: Green thoughts, green deeds
 layout: post
 categories:
 - sustainability
-excerpt: Now is the time to think about ecology than ever before. By working on just
-  a few simple sustainable changes at a time and questioning wasteful practices, we
-  can create a lasting environment impact that is also economically advantageous in
-  the long-run.
+excerpt: Now is a good time to think about ecology than ever before. By working on
+  just a few simple sustainable changes at a time and questioning wasteful practices,
+  we can create a lasting ecological and economic impact.
 images:
 - images/carTrunk.JPG
 ---
