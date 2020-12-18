@@ -7,7 +7,7 @@ excerpt: Today, November 28, marks exactly one year since our Indian wedding. In
   post, I am putting together a complete guide with a list of wedding vendors that
   I wish I had when planning my green wedding in Surat.
 images:
-- images/ABHI9886.JPG
+- images/ABHI9886-2.jpg
 ---
 
 Today, November 28, marks exactly one year since our Indian wedding in my hometown of Surat. The memories of planning and experiencing such a life-changing event seems like a distant alternative reality in the middle of a pandemic. With Zoom and intimate weddings becoming the new normal, it has been harder than ever to plan weddings. However, it makes me realize how lucky we were to be able to live and plan our wedding in Surat for almost six months. While we did not have to deal with a pandemic, there was still a dilemma about balancing traditional norms and being mindful of the environment.
@@ -88,19 +88,19 @@ Vedic wedding with real-time explanation of each ritual followed by dinner at a 
 
 ### Countries represented at the wedding
 1. India 
-2.	Usa
-3.	Mexico 
-4.	Colombia 
-5.	Malaysia 
-6.	Phillippines 
-7.	Canada 
-8.	UK 
-9.	Spain 
-10.	Aruba 
-11.	Czech Republic 
-12.	Dominican Republic 
-13.	Turkey 
-14.	UAE 
+2. USA
+3. Mexico 
+4. Colombia 
+5. Malaysia 
+6. Phillippines 
+7. Canada 
+8. UK 
+9. Spain 
+10. Aruba 
+11. Czech Republic 
+12. Dominican Republic 
+13. Turkey 
+14. UAE 
 
 | <img src="/images/ANP_0814.JPG" width="75%" alt="Wedding guets singing">  |
 |:-------------: |
