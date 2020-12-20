@@ -99,7 +99,7 @@ Facebook groups are an excellent resource for crowd sourcing ideas (Humans Who G
 
 | <img src="/images/Zine.jpg" width="75%" alt="excerpt from a zine artwork about Buy Nothing group"> |
 |:-------------: |
-| *One of the best Buy Nothing group gifts I received is this original zine artwork describing the impact of this amazing community through some of the items the artist has given and received for free!*| 
+| *One of the best Buy Nothing group gifts I received is this zine artwork by Bella Cheng describing the impact of this amazing community through some of the items the artist has given and received for free!*| 
 
 Get involved with local chapters of organizations committed to solve the climate change crisis. Keep educating yourself with books, documentaries, and blogs. Some recommended watching: Trashopolis and Broken - Recycling Sham to name a few.
 
