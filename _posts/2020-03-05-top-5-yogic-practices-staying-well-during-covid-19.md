@@ -36,7 +36,7 @@ Another pranayama to equalize the breathing through both nostrils is called [Anu
 
    b. 5:2 fasting: fast for 2 different days each week, which means eating just 500-700 calories worth of food and drink on those days. Eat normally on the other 5 days.  
  
-Of course, don’t forget to wash hands, wear masks, and no handshakes. Only Namaste! Want to learn more? Feel free to [message](/contact.html) or [schedule](/appointments.html) a free consultation with me.
+Of course, don’t forget to wash hands, wear masks, and no handshakes. Only Namaste! Want to learn more? Feel free to [message](/contact.html) me.
 
 Love and light,  
 Zeal

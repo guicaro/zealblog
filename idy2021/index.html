@@ -1,0 +1,137 @@
+---
+layout: default
+section_id: Yoga Day 2021
+services:
+- name: Rohan Shroff
+  topic: Yoga for All
+  bio: "Rohan Shroff has a combined training of more than 1,400 hours from some of the most prestigious yoga institutions and is now pursuing a Master's degree in Yoga from the SVYASA University in India. He has taught multiple Yoga Teacher's Training Courses and his favorite subject is the Yoga Sutras of Patanjali. He regularly teaches Ashtanga Vinyasa, Hatha Yoga, Kriya, Pranayama, Meditation and Relaxation in his classes."
+  yoga: Yoga is everything from waking up, praying, cleansing the body, teaching, practicing, eating, relaxing, studying, learning, meditating, acknowledging and appreciating other beings & nature and loving life.
+  image: images/rohan.png
+  video:
+  image_position: left
+  contact: "shroffrohan@gmail.com"
+- name: Ramcharit Das
+  topic: Relaxation for the body, mind and breath
+  bio: "Ramcharit Das has been doing Raja and Bhakti Yoga since the tender age of 9. When he came to Rishikesh, he met his great master Swami Veda Bharati, the disciple of Swami Rama, founder of the Himalayan Tradition. He brings 25 years of meditation and 15 years of Hatha, Ashtanga Yoga, as well as Pranayama experience. A true nature lover, he is a grounded soul who generously shares the gift of 'real' yoga."
+  yoga: Atha, Yoganushasanam. Yoga is the science of right living, discipline in life, control of mind, senses, and the Royal Path of liberation.
+  image: images/ramcharit.png
+  video: 
+  image_position: left
+  contact: "ramcharitdas@gmail.com"
+- name: Dada Nabhaniilananda aka The Monk Dude
+  topic: Mantra Meditation Music for Blissful Simians
+  bio: "Dada is a yogi, a meditation instructor, an author, a keynote speaker and a musician. Born in New Zealand, he was ordained as a monk in India in 1979. He has spoken and performed in more than 40 countries, including in Brazil in 1992 where he appeared on stage with the Dalai Lama before 10,000 people.Dada currently lives in California where he teaches meditation and creativity for companies like Apple, Google, and Cisco."
+  yoga: Yoga is the Union of the individual consciousness with the Supreme Consciousness
+  image: images/dada.png
+  video: 
+  image_position: left
+  contact: "https://www.TheMonkDude.com"
+- name: Zeal Desai
+  topic: Host
+  bio: "Zeal is a lifelong yoga sadhaka and sustainability advocate from India residing in Austin, Texas. She is passionate about hosting diverse perspectives on her 'Authentic Yoga for All' platform. A certified teacher from the Yoga institute, she is currently pursuing the Himalayan Teacher Transformation Program. A Duke University and UT Austin graduate, she is a student of life who gave up corporate life for serving and learning."
+  yoga: "યોગ - શ્રેષ્ઠ જીવન નો માર્ગ (Yoga is an ideal way of life). "
+  image: images/zealPurpleCircle.png
+  video: 
+  image_position: left
+  contact: "https://zealdesai.com/contact.html"
+---
+
+<div class="full light-pink centered-text">
+  <div class="four spacing"></div>
+  <div class="section-title">
+    <div class="row">
+      <div class="medium-10 medium-centered columns">
+        <h1 class="wow slideInUp">Yoga Day 2021</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="full centered-text">
+  <div class="section-title small">
+    <div class="row">
+      <div class="medium-10 medium-centered columns">
+        <div class="spacing"></div>
+        <h2>Authentic Yoga for All!</h2>
+        <h3>During and After the Pandemic</h3>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-10 large-centered columns">
+      <p class="big-text">
+After our roaring success in 2020, we are back to celebrate the International Day of Yoga when we need it the most. This year's event will focus on how to incorporate yoga into our daily lives for physical, mental and spiritual growth in these challenging times. Highly experienced yoga teachers will lead asanas (physical postures), pranayama (breathwork), relaxation, and mantra meditation free of charge. See you on the mat!
+      <p class="big-text">
+Can’t make it? No worries, we will be recording and posting the live events.
+      </p>
+      <p class="big-text">
+     <img src="/images/idy2021Poster.png" align="center" width="100%" class="centerImg" alt="Speakers for International Day of Yoga 2021"> 
+      </p>
+    </div>
+  </div>
+  <div class="section-title small">
+    <div class="row">
+      <div class="medium-10 medium-centered columns">
+        <div class="spacing"></div>
+        <div class="spacing"></div>
+        <div class="spacing"></div>
+      <a href="https://us02web.zoom.us/meeting/register/tZMkd-Curz0pGNJHWvizjNJoUqlBXf5EtRwV " class="button boxed">Register Here!</a>
+      </div>
+    </div>
+  </div>
+  <div class="section-title small">
+    <div class="row">
+      <div class="medium-10 medium-centered columns">
+        <div class="spacing"></div>
+        <div class="spacing"></div>
+        <div class="spacing"></div>
+        <div class="spacing"></div>
+        <h2>Our Speakers</h2>
+      </div>
+    </div>
+  </div>
+</div>
+{% for service in page.services %}
+  <div class="full no-padding">
+    <div class="row">
+      {% if service.image_position == 'left' %}
+        <div class="medium-6 columns">
+          <p class="speaker">
+          <img src="{{site.url}}/{{service.image}}" alt="">
+          </p>
+        </div>
+        <div class="medium-6 columns">
+          <div class="service-info right-text">
+            <h2>{{service.name}}</h2>
+            <p><strong>Topic:</strong> {{service.topic}}</p>
+            <p>{{service.bio}}</p>
+            <p><strong>Yoga according to me:</strong> {{service.yoga}}</p>
+            <p><strong>Contact:</strong> {{service.contact}}</p>
+            <p><strong>Session recording:</strong> {{service.video}}</p>
+          </div>
+        </div>
+      {% else %}
+        <div class="medium-6 columns">
+          <div class="service-info right-text">
+            <h2>{{service.name}}</h2>
+            <p><strong>Topic:</strong> {{service.topic}}</p>
+            <p>{{service.bio}}</p>
+            <p><strong>Yoga according to me:</strong> {{service.yoga}}</p>
+            <div class="two spacing"></div>
+          </div>
+        </div>
+        <div class="medium-6 columns">
+          <img class="imggallery" src="{{site.url}}/{{service.image}}" alt="">
+        </div>
+      {% endif %}
+    </div>
+    <div class="two spacing"></div>
+  </div>
+{% endfor %}
+<div class="full centered-text">
+  <div class="section-title small">
+      <p class="big-text">
+             To get a taste for our 2020 event, here is the <a href="https://www.youtube.com/playlist?list=PLfUpytNhWmQEjEO4YJntEAhgydJED0dI6" target="_blank">YouTube Playlist</a> Don't forget to subscribe to the <a href="/contact.html">mailing list</a> for important updates like this. 
+      </p>
+</div>
+</div>
+</div>

@@ -8,9 +8,8 @@
       path: about.html
     - name: Yoga Day 2020
       path: idy2020
-- name: Appointments
-  path: appointments.html
-  section_id: appointments
+    - name: Yoga Day 2021
+      path: idy2021
 - name: Blog
   path: blog
   section_id: blog
