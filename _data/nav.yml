@@ -10,6 +10,8 @@
       path: idy2020
     - name: Yoga Day 2021
       path: idy2021
+    - name: Yoga Queretaro 2024
+      path: yogaQro
 - name: Blog
   path: blog
   section_id: blog
