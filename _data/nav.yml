@@ -12,6 +12,14 @@
       path: idy2021
     - name: Yoga Queretaro 2024
       path: yogaQro
+- name: Projects
+  path: index.html
+  section_id: external
+  children:
+    - name: Green Periods
+      path: "https://www.greenperiods.org/"
+    - name: Zealia Co
+      path: "https://www.zealia.co"
 - name: Blog
   path: blog
   section_id: blog
