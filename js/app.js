@@ -11,7 +11,7 @@ jQuery(document).ready(function($) {
       submitHandler: function(form) {
         $.ajax({
           type: 'GET',
-          url: 'https://zealdesai.us4.list-manage.com/subscribe/post-json?u=d969c185053a9e38ae2e347f7&amp;id=217561d391&c=?',
+          url: 'https://zealia.us8.list-manage.com/subscribe/post-json?u=2bcbe4257b3ebaafaa749f0d3&amp;id=49560e7237&c=?',
           data: $(form).serialize(),
           cache: false,
           dataType: 'json',
