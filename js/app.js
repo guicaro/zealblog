@@ -14,7 +14,7 @@ jQuery(document).ready(function($) {
           url: 'https://zealia.us8.list-manage.com/subscribe/post-json?u=2bcbe4257b3ebaafaa749f0d3&amp;id=49560e7237&c=?',
           data: $(form).serialize(),
           cache: false,
-          dataType: 'json',
+          dataType: 'jsonp',
           contentType: "application/json; charset=utp-8",
           success: function(data) {
             if (data.result != "success") {
