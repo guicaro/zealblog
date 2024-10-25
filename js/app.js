@@ -11,10 +11,10 @@ jQuery(document).ready(function($) {
       submitHandler: function(form) {
         $.ajax({
           type: 'GET',
-          url: 'https://zealia.us8.list-manage.com/subscribe/post-json?u=2bcbe4257b3ebaafaa749f0d3&amp;id=49560e7237&c=?',
+          url: 'https://zealia.us8.list-manage.com/subscribe/post-json?u=2bcbe4257b3ebaafaa749f0d3&amp;id=49560e7237&amp;f_id=002b10e1f0"&c=?',
           data: $(form).serialize(),
           cache: false,
-          dataType: 'jsonp',
+          dataType: 'json',
           contentType: "application/json; charset=utp-8",
           success: function(data) {
             if (data.result != "success") {
