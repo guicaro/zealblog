@@ -12,6 +12,8 @@
       path: idy2021
     - name: Yoga Queretaro 2024
       path: yogaQro
+    - name: Yoga Day 2025
+      path: idy2025
 - name: Projects
   path: index.html
   section_id: external
